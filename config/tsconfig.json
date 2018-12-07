@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "token": "NTIwMDAxODY2ODMxMTAxOTc1.Duu9sg.0n6XHwbfHHvntlgiVPNgxjvMBw8",
+  "prefix": "!"
+}
